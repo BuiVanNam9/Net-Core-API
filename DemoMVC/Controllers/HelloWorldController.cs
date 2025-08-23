@@ -4,14 +4,9 @@ namespace DemoMVC.Controllers
 {
     public class HelloWorldController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
-            return "This is my default action...";
-        }
-
-        public string Welcome()
-        {
-            return "This is the Welcome action method...";
+            return View();   // gọi tới View Index.cshtml
         }
     }
 }
