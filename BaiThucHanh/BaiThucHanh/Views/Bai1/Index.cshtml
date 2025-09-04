@@ -1,0 +1,27 @@
+@model MvcAppDemo.Models.Bai1Model
+
+@{
+    ViewData["Title"] = "Bài 1 - Nhập thông tin";
+}
+
+<h2>Nhập thông tin</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label>Họ tên:</label>
+        <input asp-for="HoTen" />
+        <span asp-validation-for="HoTen" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Năm sinh:</label>
+        <input asp-for="NamSinh" />
+        <span asp-validation-for="NamSinh" style="color:red"></span>
+    </div>
+
+    <button type="submit">Xem kết quả</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
