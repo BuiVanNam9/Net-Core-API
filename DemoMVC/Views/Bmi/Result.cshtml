@@ -1,0 +1,9 @@
+@model DemoMVC.Models.BmiModel
+
+<h2>Kết quả BMI</h2>
+<p>Cân nặng: @Model.Weight kg</p>
+<p>Chiều cao: @Model.Height m</p>
+<p>BMI: <b>@Model.BMI.ToString("0.00")</b></p>
+<p>Phân loại: <b>@Model.Category</b></p>
+
+<a asp-action="Index">Tính lại</a>
