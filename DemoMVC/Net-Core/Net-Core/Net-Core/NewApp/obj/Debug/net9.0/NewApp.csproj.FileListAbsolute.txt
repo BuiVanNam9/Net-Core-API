@@ -1,0 +1,15 @@
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/bin/Debug/net9.0/NewApp
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/bin/Debug/net9.0/NewApp.deps.json
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/bin/Debug/net9.0/NewApp.runtimeconfig.json
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/bin/Debug/net9.0/NewApp.dll
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/bin/Debug/net9.0/NewApp.pdb
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.AssemblyInfoInputs.cache
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.AssemblyInfo.cs
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.csproj.CoreCompileInputs.cache
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.sourcelink.json
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.dll
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/refint/NewApp.dll
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.pdb
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/NewApp.genruntimeconfig.cache
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/Net-Core/NewApp/obj/Debug/net9.0/ref/NewApp.dll
