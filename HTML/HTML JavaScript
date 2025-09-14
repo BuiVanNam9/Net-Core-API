@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Buivannam-2121051421</h2>
+<p>Buivannam-2121051421</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "buivannam-2121051421";
+</script> 
+
+</body>
+</html>
+
