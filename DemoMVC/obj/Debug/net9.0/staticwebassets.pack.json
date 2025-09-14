@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/DemoMVC.ow2i899yxs.bundle.scp.css"
+    },
+    {
       "Id": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

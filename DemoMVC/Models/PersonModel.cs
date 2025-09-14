@@ -1,10 +1,17 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace DemoMVC.Models
 {
-    public class PersonModel
+    // You'll likely see something like this if you use data annotations
+    [Table("Persons")]
+    public class Person
     {
-        public string FullName { get; set; }
-        public int BirthYear { get; set; }
+        [Key]
+        public string PersonId { get; set; }
 
-        public int Age => DateTime.Now.Year - BirthYear;
+        public string FullName { get; set; }
+
+        public string Address { get; set; }
     }
 }

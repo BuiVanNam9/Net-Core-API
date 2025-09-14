@@ -15,7 +15,9 @@
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/DemoMVC.RazorAssemblyInfo.cache
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/DemoMVC.RazorAssemblyInfo.cs
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/DemoMVC.sourcelink.json
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/DemoMVC.styles.css
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/11es4j2fhr-b9sayid5wm.gz
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/vckrww5688-61n19gt1b8.gz
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/2nacgu9x96-xtxxf3hu2r.gz
@@ -78,6 +80,8 @@
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/pm9nsgppww-muycvpuwrr.gz
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/ad1q90v82i-87fc7y1x7t.gz
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/icawdyitl6-mlv21k5csn.gz
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/2omygis6jz-ow2i899yxs.gz
+/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/muayt367yh-ow2i899yxs.gz
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/staticwebassets.build.json
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/staticwebassets.development.json
 /Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/staticwebassets.build.endpoints.json

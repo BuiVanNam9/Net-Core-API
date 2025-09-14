@@ -1,20 +1,24 @@
 using Microsoft.AspNetCore.Mvc;
-using DemoMVC.Models;
+
 
 namespace DemoMVC.Controllers
 {
-    public class PersonController : Controller
-    {
-        [HttpGet]
-        public IActionResult Index() => View();
+public class PersonController : Controller
+{
+// GET: /Person/Index
+public IActionResult Index()
+{
+// (Optional) set a title for the view
+ViewData["Title"] = "Person - Index";
+return View();
+}
 
-        [HttpPost]
-        public IActionResult Index(PersonModel model)
-        {
-            if (ModelState.IsValid)
-                return View("Result", model);
 
-            return View();
-        }
-    }
+// GET: /Person/Details
+public IActionResult Details()
+{
+ViewData["Title"] = "Person - Details";
+return View();
+}
+}
 }

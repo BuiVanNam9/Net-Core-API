@@ -1,14 +1,6 @@
-@model DemoMVC.Models.PersonModel
+@{
+    ViewBag.Title = "Person - Index";
+}
 
-<h2>Nhập thông tin cá nhân</h2>
-<form asp-action="Index" method="post">
-    <div>
-        <label>Họ và tên:</label>
-        <input asp-for="FullName" required />
-    </div>
-    <div>
-        <label>Năm sinh:</label>
-        <input asp-for="BirthYear" type="number" required />
-    </div>
-    <button type="submit">Xem kết quả</button>
-</form>
+<h2>Person Index</h2>
+<p>BUIVANNAM-2121051421</p>

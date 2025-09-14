@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kgi8kX/PFXKzqZ42Sc/ZV7iDIbheo0NxBRwggHFoySw=",
+  "Hash": "RbCyMG6y+eIspXX8c6gShGprKceYVseL9PgXD8HbtRg=",
   "Source": "DemoMVC",
   "BasePath": "_content/DemoMVC",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/2omygis6jz-ow2i899yxs.gz",
+      "SourceId": "DemoMVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/DemoMVC",
+      "RelativePath": "DemoMVC#[.{fingerprint=ow2i899yxs}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/DemoMVC.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ocblxxgix2",
+      "Integrity": "uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/DemoMVC.styles.css"
     },
     {
       "Identity": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/385f6h5hxo-dxx9fxp4il.gz",
@@ -794,6 +815,27 @@
       "OriginalItemSpec": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
+      "Identity": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/muayt367yh-ow2i899yxs.gz",
+      "SourceId": "DemoMVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/DemoMVC",
+      "RelativePath": "DemoMVC#[.{fingerprint=ow2i899yxs}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ocblxxgix2",
+      "Integrity": "uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css"
+    },
+    {
       "Identity": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/n6bi2k5z6q-bqjiyaj88i.gz",
       "SourceId": "DemoMVC",
       "SourceType": "Discovered",
@@ -1317,6 +1359,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/DemoMVC.styles.css",
+      "SourceId": "DemoMVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/",
+      "BasePath": "_content/DemoMVC",
+      "RelativePath": "DemoMVC#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "ow2i899yxs",
+      "Integrity": "yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/DemoMVC.styles.css"
+    },
+    {
+      "Identity": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css",
+      "SourceId": "DemoMVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/",
+      "BasePath": "_content/DemoMVC",
+      "RelativePath": "DemoMVC#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "ow2i899yxs",
+      "Integrity": "yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css"
     },
     {
       "Identity": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/wwwroot/css/site.css",
@@ -2938,6 +3022,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.bundle.scp.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/muayt367yh-ow2i899yxs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001865671642"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.bundle.scp.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.bundle.scp.css.gz",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/muayt367yh-ow2i899yxs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.ow2i899yxs.bundle.scp.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/muayt367yh-ow2i899yxs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001865671642"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow2i899yxs"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.ow2i899yxs.bundle.scp.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow2i899yxs"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.ow2i899yxs.bundle.scp.css.gz",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/muayt367yh-ow2i899yxs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow2i899yxs"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.ow2i899yxs.styles.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/2omygis6jz-ow2i899yxs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001865671642"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow2i899yxs"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.ow2i899yxs.styles.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/DemoMVC.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow2i899yxs"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.ow2i899yxs.styles.css.gz",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/2omygis6jz-ow2i899yxs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow2i899yxs"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.styles.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/2omygis6jz-ow2i899yxs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001865671642"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.styles.css",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/scopedcss/bundle/DemoMVC.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEQ57e3xaV6vc3Ld6IFuVgrdIWxpk02xU4L2Mv3ImUg="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC.styles.css.gz",
+      "AssetFile": "/Users/macbook2015/Library/Mobile Documents/com~apple~CloudDocs/Net-Core-API/DemoMVC/obj/Debug/net9.0/compressed/2omygis6jz-ow2i899yxs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 17:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJFGtr9HqsJWQrOuV5BCX9SXxE1FgS1z8fJFkWivtgY="
         }
       ]
     },
